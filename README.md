@@ -1,9 +1,5 @@
 # ✈️ Análise de Atrasos em Voos no Brasil (2022-2024)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GustaPeruci/flight_analysis/main?filepath=analise_atrasos_voos.ipynb)
-[![NBViewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/GustaPeruci/flight_analysis/blob/main/analise_atrasos_voos.ipynb)
-[![GitHub](https://img.shields.io/badge/GitHub-Ver%20Código-blue.svg)](https://github.com/GustaPeruci/flight_analysis)
-
 ## 🎯 Sobre o Projeto
 
 Quem nunca ficou esperando no aeroporto por causa de um voo atrasado? Este trabalho mergulha nos dados oficiais de **mais de 2,8 milhões de voos** domésticos no Brasil para descobrir onde e quando os atrasos mais acontecem.
@@ -30,18 +26,7 @@ Quem nunca ficou esperando no aeroporto por causa de um voo atrasado? Este traba
 
 ## 📱 Como Visualizar
 
-### 🚀 **Opção 1: Interativo (Recomendado)**
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GustaPeruci/flight_analysis/main?filepath=analise_atrasos_voos.ipynb)
-
-*Clique acima para abrir uma versão interativa do notebook (pode levar alguns minutos para carregar)*
-
-### 📖 **Opção 2: Visualização Otimizada**
-[![NBViewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/GustaPeruci/flight_analysis/blob/main/analise_atrasos_voos.ipynb)
-
-*Renderização rápida e otimizada do notebook*
-
-### 💻 **Opção 3: GitHub (Básico)**
-[Ver no GitHub](./analise_atrasos_voos.ipynb) - Visualização nativa do GitHub
+**[📓 Ver Análise Completa](./analise_atrasos_voos.ipynb)** - Clique para abrir o notebook com toda a investigação
 
 ## 📋 Estrutura do Projeto
 

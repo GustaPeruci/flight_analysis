@@ -1,7 +1,5 @@
 # ✈️ Análise de Atrasos em Voos no Brasil (2022-2024)
 
-> **Uma investigação completa sobre os padrões de atrasos na aviação brasileira baseada em dados oficiais da ANAC**
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GustaPeruci/flight_analysis/main?filepath=analise_atrasos_voos.ipynb)
 [![NBViewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/GustaPeruci/flight_analysis/blob/main/analise_atrasos_voos.ipynb)
 [![GitHub](https://img.shields.io/badge/GitHub-Ver%20Código-blue.svg)](https://github.com/GustaPeruci/flight_analysis)
@@ -101,24 +99,9 @@ jupyter notebook analise_atrasos_voos.ipynb
 
 ## 🎓 Contexto Acadêmico
 
-Este projeto foi desenvolvido como parte do curso de **Ciência de Dados** e demonstra:
+Este projeto foi desenvolvido como parte do curso de **Engenharia de software** para a aula de **Ciência de dados** e demonstra:
 
 - ✅ **Tratamento de dados reais** com problemas típicos (encoding, dados inconsistentes)
 - ✅ **Engenharia de features** para análise temporal
 - ✅ **Visualizações informativas** e profissionais
 - ✅ **Insights práticos** baseados em evidências
-
-## 📞 Contato
-
-**Gustavo Peruci**
-- 📧 Email: [seu-email]
-- 💼 LinkedIn: [seu-linkedin]
-- 🐙 GitHub: [@GustaPeruci](https://github.com/GustaPeruci)
-
-## 📜 Licença
-
-Este projeto está sob a licença MIT. Dados utilizados são de fontes públicas (ANAC).
-
----
-
-⭐ **Gostou do projeto?** Não esqueça de dar uma estrela no repositório!

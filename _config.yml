@@ -1,0 +1,23 @@
+# Jupyter Book Configuration
+title: "Análise de Atrasos em Voos no Brasil"
+author: "Gustavo Peruci"
+logo: ""
+
+# Force re-execution of notebooks on each build
+execute:
+  execute_notebooks: 'off'  # Para evitar erros com dados que não estão no GitHub
+
+# HTML-specific settings
+html:
+  use_issues_button: true
+  use_repository_button: true
+  use_edit_page_button: true
+  
+# Repository settings
+repository:
+  url: https://github.com/GustaPeruci/flight_analysis
+  branch: main
+
+# LaTeX settings for PDF export
+latex:
+  latex_engine: pdflatex
